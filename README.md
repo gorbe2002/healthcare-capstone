@@ -11,16 +11,16 @@ This repository contains the code, data, and documentation for our research, whi
 - [Methodology Overview](#methodology-overview)
 - [Results](#results)
 
-# Abstract
+## Abstract
 
 
-# Repository Structure
+## Repository Structure
 The data/ folder contains the preprocessed data utilized when creating our models.
 
-# Getting Started
+## Getting Started
 
 
-# Data Sources
+## Data Sources
 Cancer Incidence:
 - National Health Institute: "Surveillance, Epidemiology, and End Results (SEER) Program"
 - Centers for Disease Control and Prevention: "Wonder Incidence"
@@ -32,7 +32,7 @@ Bladder Pollution:
 - United States Environmental Protection Agency: "Toxics Release Inventory (TRI)"
 - United States Environmental Protection Agency: "Assessment, Total Maximum Daily Load (TMDL) Tracking and Implementation System (ATTAINS)"
 
-# Methodology Overview
+## Methodology Overview
 
 
-# Results
+## Results
