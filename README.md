@@ -1,1 +1,38 @@
+# Environmental Carcinogenesis Decoded: Tracing Cancer's Roots with Advanced Machine Learning
+By: Danielle Grunwald, Gabriel Orbe, Badr Abushaar
 
+This repository contains the code, data, and documentation for our research, which investigates the relationship between environmental pollution and cancer incidence rates for bladder and lung cancers.
+
+## Table of Contents
+- [Abstract](#abstract)
+- [Repository Structure](#repository-structure)
+- [Getting Started](#getting-started)
+- [Data Sources](#data-sources)
+- [Methodology Overview](#methodology-overview)
+- [Results](#results)
+
+# Abstract
+
+
+# Repository Structure
+The data/ folder contains the preprocessed data utilized when creating our models.
+
+# Getting Started
+
+
+# Data Sources
+Cancer Incidence:
+- National Health Institute: "Surveillance, Epidemiology, and End Results (SEER) Program"
+- Centers for Disease Control and Prevention: "Wonder Incidence"
+
+Air Pollution:
+- United States Environmental Protection Agency: "Air Quality System (AQS)"
+
+Bladder Pollution:
+- United States Environmental Protection Agency: "Toxics Release Inventory (TRI)"
+- United States Environmental Protection Agency: "Assessment, Total Maximum Daily Load (TMDL) Tracking and Implementation System (ATTAINS)"
+
+# Methodology Overview
+
+
+# Results
