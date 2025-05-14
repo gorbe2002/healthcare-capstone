@@ -19,6 +19,18 @@ This repository contains the code, data, and documentation for our research, whi
 
 The data/ folder contains the preprocessed data utilized when creating our models.
 
+healthcare-capstone/
+├── data/ # Preprocessed datasets
+├── data_pulls/ # Raw data sources
+├── feature_engineering.ipynb # Feature engineering steps
+├── MLPmodel.ipynb # Multilayer Perceptron model
+├── decisionTreeModel.ipynb # Decision Tree model
+├── model.ipynb # Additional modeling approaches
+├── modelcomparison_transformer.ipynb # Model comparison using transformers
+├── StatAnalysis.ipynb # Statistical analysis
+├── OtherMLApproaches.ipynb # Other machine learning models
+└── README.md # Project documentation
+
 ## Getting Started
 
 1. **Clone the Repository**
@@ -42,7 +54,7 @@ The data/ folder contains the preprocessed data utilized when creating our model
    pip install -r requirements.txt
    ```
 
-4. **Launch JJupyter Notebook**
+4. **Launch Jupyter Notebook**
    ```bash
    jupyter notebook
    ```
