@@ -30,14 +30,22 @@ The data/ folder contains the preprocessed data utilized when creating our model
    ```
 
 2. **Set Up Your Environment**
+
+   ```bash
    python -m venv venv
    source venv/bin/activate
+   ```
 
 3. **Install Dependencies**
+
+   ```bash
    pip install -r requirements.txt
+   ```
 
 4. **Launch JJupyter Notebook**
+   ```bash
    jupyter notebook
+   ```
 
 ## Data Sources
 
