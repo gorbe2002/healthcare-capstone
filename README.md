@@ -17,20 +17,18 @@ This repository contains the code, data, and documentation for our research, whi
 
 ## Repository Structure
 
-The data/ folder contains the preprocessed data utilized when creating our models.
-
 ```bash
 healthcare-capstone/
-├── data/                                   # Preprocessed datasets
+├── data/                                   # Preprocessed data
 ├── data_pulls/                             # Raw data sources
-├── feature_engineering.ipynb               # Feature engineering steps
 ├── MLPmodel.ipynb                          # Multilayer Perceptron model
-├── decisionTreeModel.ipynb                 # Decision Tree model
-├── model.ipynb                             # Additional modeling approaches
-├── modelcomparison_transformer.ipynb       # Model comparison using transformers
+|── README.md                               # Project documentation
 ├── StatAnalysis.ipynb                      # Statistical analysis
-├── OtherMLApproaches.ipynb                 # Other machine learning models
-└── README.md                               # Project documentation
+├── decisionTreeModel.ipynb                 # Decision Tree model
+├── feature_engineering.ipynb               # Feature engineering steps
+├── linRegAndSVRmodels.ipynb                # Linear Regression and SVR models
+├── model.ipynb                             # Additional modeling approaches
+└── modelcomparison_transformer.ipynb       # Model comparison using transformers
 ```
 
 ## Getting Started
@@ -40,7 +38,6 @@ healthcare-capstone/
    ```bash
    git clone https://github.com/gorbe2002/healthcare-capstone.git
    cd healthcare-capstone
-
    ```
 
 2. **Set Up Your Environment**
