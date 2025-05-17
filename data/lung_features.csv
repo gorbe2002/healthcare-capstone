@@ -1,0 +1,729 @@
+,Feature
+0,Barometric Pressure
+1,CO
+2,HAPs
+3,Lead_x
+4,NO2
+5,NONOxNOy
+6,Ozone_x
+7,PM10 Mass
+8,PM10 Speciation
+9,PM2.5 FRM-FEM Mass
+10,PM2.5 Speciation
+11,PM2.5 non FRM-FEM Mass
+12,PMc Mass
+13,RH and Dewpoint
+14,SO2
+15,Temperature
+16,VOCs
+17,Winds (Resultant)
+18,"1,1,1-Trichloroethane"
+19,"1,1,2,2-Tetrachloroethane"
+20,"1,1,2-Trichloroethane"
+21,"1,1-Dimethylhydrazine"
+22,"1,2,4-Trichlorobenzene"
+23,"1,2,4-Trimethylbenzene"
+24,"1,2-Butylene oxide"
+25,"1,2-Dibromoethane"
+26,"1,2-Dichlorobenzene"
+27,"1,2-Dichloroethane"
+28,"1,2-Dichloroethylene"
+29,"1,2-Dichloropropane"
+30,"1,3-Butadiene"
+31,"1,3-Dichlorobenzene"
+32,"1,3-Dichloropropylene"
+33,"1,3-Propane sultone"
+34,"1,4-Dichlorobenzene"
+35,"1,4-Dioxane"
+36,"2,4,6-Trichlorophenol"
+37,"2,4-D"
+38,"2,4-Diaminoanisole"
+39,"2,4-Diaminoanisole sulfate"
+40,"2,4-Diaminotoluene"
+41,"2,4-Dichlorophenol"
+42,"2,4-Dimethylphenol"
+43,"2,4-Dinitrophenol"
+44,"2,4-Dinitrotoluene"
+45,"2,6-Dinitrotoluene"
+46,"2,6-Xylidine"
+47,2-Chloroacetophenone
+48,2-Ethoxyethanol
+49,2-Methoxyethanol
+50,2-Nitrophenol
+51,2-Nitropropane
+52,2-Phenylphenol
+53,"3,3'-Dichlorobenzidine"
+54,"4,4'-Diaminodiphenyl ether"
+55,"4,4'-Isopropylidenediphenol"
+56,"4,4'-Methylenebis(2-chloroaniline)"
+57,"4,4'-Methylenebis(N,N-dimethyl)benzenamine"
+58,"4,4'-Methylenedi(phenyl isocyanate)"
+59,"4,4'-Methylenedianiline"
+60,"4,6-Dinitro-o-cresol"
+61,4-Aminoazobenzene
+62,4-Aminobiphenyl
+63,4-Nitrophenol
+64,5-Nitro-o-anisidine
+65,Acetaldehyde
+66,Acetamide
+67,Acetone
+68,Acetonitrile
+69,Acrolein
+70,Acrylamide
+71,Acrylic acid
+72,Acrylonitrile
+73,Allyl chloride
+74,Aluminum (fume or dust)
+75,Aluminum oxide (fibrous forms)
+76,Ammonia
+77,Ammonium nitrate (solution)
+78,Ammonium sulfate (solution)
+79,Aniline
+80,Anthracene
+81,Antimony
+82,Antimony compounds
+83,Arsenic
+84,Arsenic compounds
+85,Asbestos (friable)
+86,Barium
+87,Barium compounds (except for barium sulfate (CAS No. 7727-43-7))
+88,Benzal chloride
+89,Benzene
+90,Benzoic trichloride
+91,Benzoyl chloride
+92,Benzoyl peroxide
+93,Benzyl chloride
+94,Beryllium
+95,Beryllium compounds
+96,Biphenyl
+97,Bis(2-chloro-1-methylethyl) ether
+98,Bis(2-chloroethyl) ether
+99,Bis(2-ethylhexyl) adipate
+100,Bis(chloromethyl) ether
+101,Bromomethane
+102,Butyl acrylate
+103,Butyl benzyl phthalate
+104,Butyraldehyde
+105,"C.I. Acid Blue 9, Diammonium Salt"
+106,"C.I. Acid Blue 9, Disodium Salt"
+107,C.I. Basic Green 4
+108,C.I. Disperse Yellow 3
+109,C.I. Solvent Yellow 14
+110,Cadmium
+111,Cadmium compounds
+112,Calcium cyanamide
+113,Captan
+114,Carbaryl
+115,Carbon disulfide
+116,Carbon tetrachloride
+117,Carbonyl sulfide
+118,Catechol
+119,Certain glycol ethers
+120,Chloramben
+121,Chlordane
+122,Chlorine
+123,Chlorine dioxide
+124,Chloroacetic acid
+125,Chlorobenzene
+126,Chlorobenzilate
+127,Chloroethane
+128,Chloroform
+129,Chloromethane
+130,Chloromethyl methyl ether
+131,Chlorophenols
+132,Chloroprene
+133,Chlorothalonil
+134,Chromium
+135,Chromium compounds (except for chromite ore mined in the Transvaal Region)
+136,Cobalt
+137,Cobalt compounds
+138,Copper
+139,Copper compounds
+140,Cresol (mixed isomers)
+141,Cumene
+142,Cumene hydroperoxide
+143,Cupferron
+144,Cyanide compounds
+145,Cyclohexane
+146,Decabromodiphenyl oxide
+147,Di(2-ethylhexyl) phthalate
+148,Diaminotoluene (mixed isomers)
+149,Dibenzofuran
+150,Dibutyl phthalate
+151,Dichlorobenzene (mixed isomers)
+152,Dichlorobromomethane
+153,Dichloromethane
+154,Dichlorvos
+155,Dicofol
+156,Diethanolamine
+157,Diethyl phthalate
+158,Diethyl sulfate
+159,Dimethyl phthalate
+160,Dimethyl sulfate
+161,Epichlorohydrin
+162,Ethyl acrylate
+163,Ethyl chloroformate
+164,Ethylbenzene
+165,Ethylene
+166,Ethylene glycol
+167,Ethylene oxide
+168,Ethylene thiourea
+169,Ethyleneimine
+170,Fluometuron
+171,Formaldehyde
+172,Freon 113 (CFC-113)
+173,Heptachlor
+174,"Hexachloro-1,3-butadiene"
+175,Hexachlorobenzene
+176,Hexachlorocyclopentadiene
+177,Hexachloroethane
+178,Hydrazine
+179,Hydrazine sulfate (1:1)
+180,"Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)"
+181,Hydrogen cyanide
+182,Hydrogen fluoride
+183,Hydroquinone
+184,Isobutyraldehyde
+185,"Isopropyl alcohol (only persons who manufacture by the strong acid process are subject, no supplier notification)"
+186,Lead_y
+187,Lead compounds
+188,Lindane
+189,Maleic anhydride
+190,Maneb
+191,Manganese
+192,Manganese compounds
+193,Melamine
+194,Mercury
+195,Mercury compounds
+196,Methanol
+197,Methoxychlor
+198,Methyl acrylate
+199,Methyl ethyl ketone
+200,Methyl hydrazine
+201,Methyl iodide
+202,Methyl isobutyl ketone
+203,Methyl isocyanate
+204,Methyl methacrylate
+205,Methyl tert-butyl ether
+206,Methylene bromide
+207,Michler's ketone
+208,Mixture
+209,Molybdenum trioxide
+210,"N,N-Dimethylaniline"
+211,N-Nitrosodi-n-propylamine
+212,N-Nitrosodiphenylamine
+213,Naphthalene
+214,Nickel
+215,Nickel compounds
+216,Nitric acid
+217,Nitrilotriacetic acid
+218,Nitrobenzene
+219,Nitrogen mustard
+220,Nitroglycerin
+221,Parathion
+222,Pentachlorophenol
+223,Peracetic acid
+224,Phenol
+225,Phosgene
+226,Phosphoric acid
+227,Phosphorus (yellow or white)
+228,Phthalic anhydride
+229,Picric acid
+230,Polychlorinated biphenyls
+231,Propionaldehyde
+232,Propoxur
+233,Propylene
+234,Propylene oxide
+235,Propyleneimine
+236,Pyridine
+237,Quinoline
+238,Quinone
+239,Quintozene
+240,"Saccharin (only persons who manufacture are subject, no supplier notification)"
+241,Safrole
+242,Selenium
+243,Selenium compounds
+244,Silver
+245,Silver compounds
+246,Sodium hydroxide (solution)
+247,Sodium sulfate (solution)
+248,Styrene
+249,Styrene oxide
+250,"Sulfuric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)"
+251,Terephthalic acid
+252,Tetrachloroethylene
+253,Tetrachlorvinphos
+254,Thallium
+255,Thallium compounds
+256,Thiourea
+257,Thorium dioxide
+258,Titanium tetrachloride
+259,Toluene
+260,"Toluene-2,4-diisocyanate"
+261,"Toluene-2,6-diisocyanate"
+262,Trade Secret
+263,Trichlorfon
+264,Trichloroethylene
+265,Trifluralin
+266,Urethane
+267,Vanadium (except when contained in an alloy)
+268,Vinyl acetate
+269,Vinyl bromide
+270,Vinyl chloride
+271,Vinylidene chloride
+272,Xylene (mixed isomers)
+273,Zinc (fume or dust)
+274,Zinc compounds
+275,Zineb
+276,alpha-Naphthylamine
+277,m-Cresol
+278,m-Xylene
+279,n-Butyl alcohol
+280,n-Dioctyl phthalate
+281,o-Anisidine
+282,o-Cresol
+283,o-Toluidine
+284,o-Xylene
+285,p-Anisidine
+286,p-Cresidine
+287,p-Cresol
+288,p-Nitrosodiphenylamine
+289,p-Phenylenediamine
+290,p-Xylene
+291,sec-Butyl alcohol
+292,tert-Butyl alcohol
+293,"2,4,5-Trichlorophenol"
+294,Benzamide
+295,Bromoform
+296,C.I. Food Red 15
+297,C.I. Solvent Yellow 3
+298,N-Nitrosodimethylamine
+299,Polybrominated biphenyls
+300,Thioacetamide
+301,n-Hexane
+302,"3,3'-Dimethoxybenzidine"
+303,"3,3'-Dimethylbenzidine"
+304,C.I. Basic Red 1
+305,C.I. Direct Black 38
+306,C.I. Solvent Orange 7
+307,Diisocyanates
+308,Nitrate compounds (water dissociable; reportable only when in aqueous solution)
+309,"2,3-Dichloropropene"
+310,Allyl alcohol
+311,Creosote
+312,Dinitrotoluene (mixed isomers)
+313,Isosafrole
+314,Toluene diisocyanate (mixed isomers)
+315,Toxaphene
+316,m-Dinitrobenzene
+317,o-Dinitrobenzene
+318,p-Dinitrobenzene
+319,"1,2-Dibromo-3-chloropropane"
+320,Bromochlorodifluoromethane (Halon 1211)
+321,Bromotrifluoromethane (Halon 1301)
+322,Dibromotetrafluoroethane
+323,Dichlorodifluoromethane (CFC-12)
+324,Dichlorotetrafluoroethane (CFC-114)
+325,Diepoxybutane
+326,Formic acid
+327,Monochloropentafluoroethane (CFC-115)
+328,Trichlorofluoromethane (CFC-11)
+329,"1,1-Dichloro-1-fluoroethane (HCFC-141b)"
+330,Benzidine
+331,"N,N-Dimethylformamide"
+332,"1,1,1,2-Tetrachloroethane"
+333,"1,4-Dichloro-2-butene"
+334,"1-Chloro-1,1,2,2-tetrafluoroethane (HCFC-124a)"
+335,"1-Chloro-1,1-difluoroethane (HCFC-142b)"
+336,"2,2-Dichloro-1,1,1-trifluoroethane (HCFC-123)"
+337,"2-Chloro-1,1,1,2-tetrafluoroethane (HCFC-124)"
+338,2-Methylpyridine
+339,5-Nitro-o-toluidine
+340,Acetophenone
+341,Bis(2-chloroethoxy)methane
+342,Chlorodifluoromethane (HCFC-22)
+343,Dichlorotrifluoroethane
+344,Dihydrosafrole
+345,"Ethylenebisdithiocarbamic acid, salts and esters"
+346,Ethylidene dichloride
+347,Hexachlorophene
+348,Lithium carbonate
+349,Malononitrile
+350,Methacrylonitrile
+351,Methyl chlorocarbonate
+352,N-Methyl-2-pyrrolidone
+353,Paraldehyde
+354,Pentachloroethane
+355,Pronamide
+356,Sodium nitrite
+357,Thiram
+358,"1,1,2,2-Tetrachloro-1-fluoroethane (HCFC-121)"
+359,"1,2,3-Trichloropropane"
+360,"1,2-Dichloro-1,1-difluoroethane (HCFC-132b)"
+361,"1,2-Phenylenediamine"
+362,"1,3-Dichloro-1,1,2,2,3-pentafluoropropane (HCFC-225cb)"
+363,"1,3-Phenylenediamine"
+364,"1-(3-Chloroallyl)-3,5,7-triaza-1-azoniaadamantane chloride"
+365,"1-Bromo-1-(bromomethyl)-1,3-propanedicarbonitrile"
+366,"2,4-D 2-butoxyethyl ester"
+367,"2,4-D 2-ethylhexyl ester"
+368,"2,4-D butyl ester"
+369,"2,4-D sodium salt"
+370,"2,4-DB"
+371,"2,4-DP"
+372,"2,6-Dimethylphenol"
+373,"2-Bromo-2-nitropropane-1,3-diol"
+374,"2-Chloro-1,1,1-trifluoroethane (HCFC-133a)"
+375,2-Mercaptobenzothiazole
+376,2-Methyllactonitrile
+377,"3,3'-Dichlorobenzidine dihydrochloride"
+378,"3,3'-Dichlorobenzidine sulfate"
+379,"3,3'-Dimethoxybenzidine dihydrochloride"
+380,"3,3-Dichloro-1,1,1,2,2-pentafluoropropane (HCFC-225ca)"
+381,3-Chloro-2-methyl-1-propene
+382,3-Iodo-2-propynyl butylcarbamate
+383,Abamectin
+384,Acephate
+385,"Acifluorfen, sodium salt"
+386,Alachlor
+387,Aldicarb
+388,Aluminum phosphide
+389,Ametryn
+390,Atrazine
+391,Bendiocarb
+392,Benfluralin
+393,Benomyl
+394,Bifenthrin
+395,Bis(tributyltin) oxide
+396,Boron trichloride
+397,Boron trifluoride
+398,Bromacil
+399,Bromine
+400,Bromoxynil
+401,Bromoxynil octanoate
+402,Brucine
+403,C.I. Acid Red 114
+404,C.I. Direct Blue 218
+405,C.I. Direct Brown 95
+406,Carbofuran
+407,Carboxin
+408,Chlorendic acid
+409,Chlorimuron-ethyl
+410,Chloropicrin
+411,Chlorotrifluoromethane (CFC-13)
+412,Chlorpyrifos-methyl
+413,Chlorsulfuron
+414,Crotonaldehyde
+415,Cyanazine
+416,Cycloate
+417,Cyclohexanol
+418,Cyfluthrin
+419,Dazomet
+420,"Dazomet, sodium salt"
+421,Desmedipham
+422,Diazinon
+423,Dicamba
+424,Dichloran
+425,Dichlorofluoromethane (HCFC-21)
+426,Dicyclopentadiene
+427,Diflubenzuron
+428,Dimethipin
+429,Dimethoate
+430,Dimethyl chlorothiophosphate
+431,Dimethylamine
+432,Dimethylamine dicamba
+433,Dinitrobutyl phenol
+434,Dinocap
+435,Diphenylamine
+436,Dipotassium endothall
+437,Disodium cyanodithioimidocarbonate
+438,Diuron
+439,Dodine
+440,Ethoprop
+441,Famphur
+442,Fenarimol
+443,Fenbutatin oxide
+444,Fenoxycarb
+445,Fenpropathrin
+446,Fenthion
+447,Fenvalerate
+448,Fluorine
+449,Fluvalinate
+450,Folpet
+451,Fomesafen
+452,Hexazinone
+453,Hydramethylnon
+454,Iron pentacarbonyl
+455,Isofenphos
+456,Lactofen
+457,Linuron
+458,Malathion
+459,Mecoprop
+460,Merphos
+461,Metham sodium
+462,Methoxone
+463,Methyl isothiocyanate
+464,Methyl parathion
+465,Metribuzin
+466,Mevinphos
+467,Molinate
+468,Myclobutanil
+469,N-Methylolacrylamide
+470,N-Nitrosomorpholine
+471,Nabam
+472,Naled
+473,Nicotine and salts
+474,Nitrapyrin
+475,Norflurazon
+476,Oryzalin
+477,Oxadiazon
+478,Oxydemeton-methyl
+479,Oxyfluorfen
+480,Ozone_y
+481,Paraquat dichloride
+482,Pebulate
+483,Pendimethalin
+484,Perchloromethyl mercaptan
+485,Permethrin
+486,Phenanthrene
+487,Phenothrin
+488,Phenytoin
+489,Phosphine
+490,Picloram
+491,Piperonyl butoxide
+492,Polychlorinated alkanes (C10-C13)
+493,Polycyclic aromatic compounds
+494,Potassium N-methyldithiocarbamate
+495,Potassium bromate
+496,Potassium dimethyldithiocarbamate
+497,Profenofos
+498,Prometryn
+499,Propachlor
+500,Propanil
+501,Propargite
+502,Propargyl alcohol
+503,Propetamphos
+504,Propiconazole
+505,Quizalofop-ethyl
+506,Resmethrin
+507,"S,S,S-Tributyltrithiophosphate"
+508,S-Ethyl dipropylthiocarbamate
+509,Simazine
+510,Sodium azide
+511,Sodium dicamba
+512,Sodium dimethyldithiocarbamate
+513,Sodium o-phenylphenoxide
+514,Sulfuryl fluoride
+515,Sulprofos
+516,Tebuthiuron
+517,Temephos
+518,Terbacil
+519,Tetracycline hydrochloride
+520,Tetramethrin
+521,Thiabendazole
+522,Thiobencarb
+523,Thiodicarb
+524,Thiophanate-methyl
+525,Thiosemicarbazide
+526,Triadimefon
+527,Triallate
+528,Tribenuron-methyl
+529,Tributyltin fluoride
+530,Tributyltin methacrylate
+531,Trichloroacetyl chloride
+532,Triclopyr-triethylammonium salt
+533,Triethylamine
+534,Triforine
+535,Triphenyltin chloride
+536,Triphenyltin hydroxide
+537,Vinclozolin
+538,d-trans-Allethrin
+539,p-Chloroaniline
+540,p-Nitroaniline
+541,"trans-1,3-Dichloropropene"
+542,"trans-1,4-Dichloro-2-butene"
+543,"1,2-Dichloro-1,1,2-trifluoroethane (HCFC-123a)"
+544,"3,3'-Dimethylbenzidine dihydrochloride"
+545,Allylamine
+546,Amitraz
+547,Diglycidyl resorcinol ether
+548,Dipropyl isocinchomeronate
+549,Fluazifop-butyl
+550,Fluorouracil
+551,Sethoxydim
+552,Thiophanate-ethyl
+553,"1,1,1,2-Tetrachloro-2-fluoroethane (HCFC-121a)"
+554,Dimethylcarbamoyl chloride
+555,Pentobarbital sodium
+556,"1,2-Diphenylhydrazine"
+557,2-Acetylaminofluorene
+558,Aldrin
+559,Amitrole
+560,C.I. Solvent Yellow 34
+561,Chlorotetrafluoroethane
+562,Diallate
+563,Dichloropentafluoropropane
+564,Dioxin and dioxin-like compounds
+565,Imazalil
+566,Methiocarb
+567,N-Nitroso-N-ethylurea
+568,N-Nitroso-N-methylurea
+569,N-Nitrosodi-n-butylamine
+570,N-Nitrosodiethylamine
+571,N-Nitrosopiperidine
+572,Strychnine and salts
+573,"Tris(2,3-dibromopropyl) phosphate"
+574,Trypan blue
+575,beta-Naphthylamine
+576,o-Toluidine hydrochloride
+577,"2,4-Dithiobiuret"
+578,3-Chloropropionitrile
+579,"Benzo[g,h,i]perylene"
+580,Cyhalothrin
+581,Diazomethane
+582,N-Nitrosomethylvinylamine
+583,Osmium tetroxide
+584,Pirimiphos-methyl
+585,Sodium fluoroacetate
+586,Vanadium compounds
+587,Warfarin and salts
+588,4-Dimethylaminoazobenzene
+589,Hexamethylphosphoramide
+590,Isodrin
+591,Nitrofen
+592,Octachlorostyrene
+593,Pentachlorobenzene
+594,Tetrabromobisphenol A
+595,Ferbam
+596,Methoxone sodium salt
+597,"1,1-Dichloro-1,2,2,3,3-pentafluoropropane (HCFC-225cc)"
+598,"1,1-Dichloro-1,2,2-trifluoroethane (HCFC-123b)"
+599,"2,4-D 2-ethyl-4-methylpentyl ester"
+600,"2,4-D isopropyl ester"
+601,Anilazine
+602,"1,2-Dichloro-1,1,3,3,3-pentafluoropropane (HCFC-225da)"
+603,Methazole
+604,Metiram
+605,Octachloronaphthalene
+606,alpha-Hexachlorocyclohexane
+607,beta-Propiolactone
+608,p-Chlorophenyl isocyanate
+609,"2,3-dichloro-1,1,1,2,3-pentafluoropropane (HCFC-225ba)"
+610,"3-Chloro-1,1,1-trifluoropropane (HCFC-253fb)"
+611,"2,4-D propylene glycol butyl ether ester"
+612,Mustard gas
+613,"2,2-Bis(bromomethyl)-1,3-propanediol"
+614,"2,4-D chlorocrotyl ester"
+615,2-Aminoanthraquinone
+616,Furan
+617,Glycidol
+618,Isoprene
+619,Methyleugenol
+620,Nitromethane
+621,Phenolphthalein
+622,Tetrafluoroethylene
+623,Vinyl fluoride
+624,Hydrogen sulfide
+625,Dichlorophene
+626,Monuron
+627,C.I. Vat Yellow 4
+628,Manganese  And Manganese Compounds
+629,Chromium  and Chromium Compounds(except for chromite ore mined in the Transvaal Region)
+630,Nonylphenol
+631,1-Bromopropane
+632,Antimony  And Antimony Compounds
+633,Fenoxaprop-ethyl
+634,Copper  And Copper Compounds
+635,Hexabromocyclododecane
+636,Arsenic  And Arsenic Compounds
+637,Barium  And Barium Compounds
+638,Beryllium  And Beryllium Compounds
+639,Cadmium  And Cadmium Compounds
+640,Cobalt  And Cobalt Compounds
+641,Lead  And Lead Compounds
+642,Mercury  And Mercury Compounds
+643,Nickel  And Nickel Compounds
+644,Selenium  And Selenium Compounds
+645,Silver And Silver Compounds
+646,Thallium  And Thallium Compounds
+647,Nonylphenol Ethoxylates
+648,"1,1,2,2-Tetrahydroperfluorodecyl acrylate"
+649,"1,1,2,2-Tetrahydroperfluorododecyl acrylate"
+650,"1,1,2,2-Tetrahydroperfluorohexadecyl acrylate"
+651,"1,1,2,2-Tetrahydroperfluorotetradecyl acrylate"
+652,"1-Decanol, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluoro-"
+653,"1-Octanesulfonamide, N-butyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-(2-hydroxyethyl)-"
+654,"1-Propanaminium, 2-hydroxy-N,N,N-trimethyl-, 3-[(γ-ω-perfluoro-C6-20-alkyl)thio] derivs., chlorides"
+655,"1-Propanaminium, N,N,N-trimethyl-3-[[(pentadecafluoroheptyl)sulfonyl]amino]-, iodide"
+656,"1-Propanaminium, N,N,N-trimethyl-3-[[(tridecafluorohexyl)sulfonyl]amino]-, iodide"
+657,"1-Propanaminium, N,N,N-trimethyl-3-[[(undecafluoropentyl)sulfonyl]amino]-, iodide"
+658,"1-Propanesulfonic acid, 2-methyl-, 2-[[1-oxo-3-[(γ-ω-perfluoro-C4-16-alkyl)thio]propyl]amino] derivs., sodium salts"
+659,"2-Propenoic acid, 2-methyl-, octadecyl ester, polymer with 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluorododecyl 2-propenoate, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl 2-propenoate and 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,14-pentacosafluorotetradecyl 2-propenoate"
+660,"2-Propenoic acid, butyl ester, telomer with 2-[[(heptadecafluorooctyl)sulfonyl]methylamino]ethyl 2-propenoate, 2-[methyl[(nonafluorobutyl)sulfonyl]amino]ethyl 2-propenoate, α-(2-methyl-1-oxo-2-propenyl)-ω-hydroxypoly(oxy-1,4-butanediyl), α-(2-methyl-1-oxo-2-propenyl)-ω-[(2-methyl-1-oxo-2-propenyl)oxy]poly(oxy-1,4-butanediyl), 2-[methyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl 2-propenoate, 2-[methyl[(tridecafluorohexyl)sulfonyl]amino]ethyl 2-propenoate, 2-[methyl[(undecafluoropentyl)sulfonyl]amino]ethyl 2-propenoate and 1-octanethiol"
+661,"2-Propenoic acid, esters, 2-methyl-, dodecyl ester, polymer with α-fluoro-ω-[2-[(2-methyl-1-oxo-2-propen-1-yl)oxy]ethyl]poly(difluoromethylene)"
+662,2-[[(Heptadecafluorooctyl)sulfonyl]methylamino]ethyl acrylate
+663,"3-[[(Heptadecafluorooctyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium iodide"
+664,"Decane, 1,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8-heptadecafluoro-10-iodo-"
+665,"Ethanaminium, N,N-diethyl-N-methyl-2-[(2-methyl-1-oxo-2-propenyl)oxy]-, methyl sulfate, polymer with 2-ethylhexyl 2-methyl-2-propenoate, α-fluoro-ω-[2-[(2-methyl-1-oxo-2-propenyl)oxy]ethyl]poly(difluoromethylene), 2-hydroxyethyl 2-methyl-2-propenoate and N-(hydroxymethyl)-2-propenamide"
+666,"Ethanol, 2,2'-iminobis-, compd. with α,α'-[phosphinicobis(oxy-2,1-ethanediyl)]bis[ω-fluoropoly(difluoromethylene)] (1:1)"
+667,"Ethanol, 2,2'-iminobis-, compd. with α-fluoro-ω-[2-(phosphonooxy)ethyl]poly(difluoromethylene) (2:1)"
+668,Hexafluoropropylene oxide dimer acid
+669,Hexafluoropropylene oxide dimer acid ammonium salt
+670,Methyl perfluorooctanoate
+671,"Octanoyl fluoride, pentadecafluoro-"
+672,Perfluorodecanoic acid
+673,Perfluorododecanoic acid
+674,Perfluorohexanesulfonic acid
+675,Perfluorononanoic acid
+676,Perfluorooctane sulfonic acid
+677,Perfluorooctanoic acid
+678,Perfluorooctyl Ethylene
+679,"Phosphonic acid, perfluoro-C6-12-alkyl derivs."
+680,"Poly(difluoromethylene), α,α'-[phosphinicobis(oxy-2,1-ethanediyl)]bis[ω-fluoro-, ammonium salt"
+681,"Poly(difluoromethylene), α-[2-[(2-carboxyethyl)thio]ethyl]-ω-fluoro-, lithium salt"
+682,"Poly(difluoromethylene), α-fluoro-ω-[2-(phosphonooxy)ethyl]-, diammonium salt"
+683,"Poly(difluoromethylene), α-fluoro-ω-[2-[(1-oxo-2-propenyl)oxy]ethyl]-, homopolymer"
+684,"Poly(oxy-1,2-ethanediyl), α-[2-[ethyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl]-ω-hydroxy-"
+685,"Poly(oxy-1,2-ethanediyl), α-hydro-ω-hydroxy-, ether with α-fluoro-ω-(2-hydroxyethyl)poly(difluoromethylene) (1:1)"
+686,Potassium perfluorooctanesulfonate
+687,"Siloxanes and Silicones, (3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)oxy Me, hydroxy Me, Me octyl, ethers with polyethylene glycol mono-Me ether"
+688,Sulfluramid
+689,"Sulfonic acids, C6-12-alkane, γ-ω-perfluoro, ammonium salts"
+690,"Thiols, C10-20, γ-ω-perfluoro"
+691,"Thiols, C4-10, γ-ω-perfluoro"
+692,"Thiols, C6-12, γ-ω-perfluoro"
+693,"Thiols, C8-20, γ-ω-perfluoro, telomers with acrylamide"
+694,"1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-methyl-"
+695,"1-Propanaminium, 3-amino-N-(carboxymethyl)-N,N-dimethyl-, N-[2-[(γ-ω-perfluoro-C4-20-alkyl)thio]acetyl] derivs., inner salts"
+696,"Alcohols, C8-14, γ-ω-perfluoro"
+697,Chromium(III) perfluorooctanoate
+698,"Ethanaminium, N,N,N-triethyl-, salt with 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-1-octanesulfonic acid (1:1)"
+699,Perfluorooctyl iodide
+700,Perfluorotetradecanoic acid
+701,"Poly(oxy-1,2-ethanediyl), α-[2-[ethyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl]-ω-methoxy-"
+702,"Poly[oxy(methyl-1,2-ethanediyl)], α-[2-[ethyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl]-ω-hydroxy-"
+703,"2-Propenoic acid, 2-methyl-, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluorododecyl ester, polymer with 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl 2-methyl-2-propenoate, methyl 2-methyl-2-propenoate, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,14-pentacosafluorotetradecyl 2-methyl-2-propenoate and 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl 2-methyl-2-propenoate"
+704,Perfluorobutane sulfonic acid
+705,Perfluorooctylsulfonyl fluoride
+706,"Phosphinic acid, bis(perfluoro-C6-12-alkyl) derivs."
+707,"Poly(difluoromethylene), α,α'-[phosphinicobis(oxy-2,1-ethanediyl)]bis[ω-fluoro-"
+708,"Poly(difluoromethylene), α-fluoro-ω-[2-(phosphonooxy)ethyl]-"
+709,Potassium perfluorobutane sulfonate
+710,"1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta[g]-2-benzopyran"
+711,"1,3-Dichloro-2-propanol"
+712,"1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-(2-hydroxyethyl)-N-methyl-"
+713,"2-Propenoic acid, 2-[butyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl ester, telomer with 2-[butyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl 2-propenoate, methyloxirane polymer with oxirane di-2-propenoate, methyloxirane polymer with oxirane mono-2-propenoate and 1-octanethiol"
+714,"Acetamide, N-(2-aminoethyl), 2[(γ-ω-perfluoro-C4-20-alkyl)thio] derivs., polymers with N1,N1-dimethyl-1,3-propanediamine, epichlorohydrin and ethylenediamine, oxidized"
+715,"Acetic acid, 2-[(γ-ω-perfluoro-C4-20-alkyl)thio] derivs., 2-hydroxypropyl esters"
+716,Dibutyltin dichloride
+717,Formamide
+718,N-Hydroxyethylethylenediamine
+719,Nitrilotriacetic acid trisodium salt
+720,"Octadecanoic acid, pentatriacontafluoro-"
+721,Perfluorobutanoic acid
+722,"Phosphoric acid, γ-ω-perfluoro-C8-16-alkyl esters, compds. with diethanolamine"
+723,Triglycidyl isocyanurate
+724,"Tris(1,3-dichloro-2-propyl) phosphate"
+725,"p-(1,1,3,3-Tetramethylbutyl)phenol"
+726,isimpaired
+727,isthreatened
