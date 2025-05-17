@@ -30,7 +30,12 @@ healthcare-capstone/
 ├── feature_engineering.ipynb               # Feature engineering steps
 ├── linRegAndSVRmodels.ipynb                # Linear Regression and SVR models
 ├── model.ipynb                             # Additional modeling approaches
+├── Lung_Model.ipynb                        # Final Model for Lung Cancer Prediction
+├── Bladder_Model.ipynb                     # Final Model for Bladder Cancer Prediction
+├── spatial-temporal gnn.ipynb              # Spatial-temporal gnn model
 └── modelcomparison_transformer.ipynb       # Model comparison using transformers
+
+
 ```
 
 ## Getting Started
